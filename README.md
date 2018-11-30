@@ -1,3 +1,3 @@
 # hello-world
 first test
-Just looking around really
+just looking around really
